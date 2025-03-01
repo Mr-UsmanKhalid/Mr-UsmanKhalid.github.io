@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9656599d.css",
+    "main.js": "/static/js/main.44f9e357.js",
+    "static/media/Aptech_Appliaction_Screens.png": "/static/media/Aptech_Appliaction_Screens.5351984caf497958396b.png",
+    "static/media/ABOUT.jpg": "/static/media/ABOUT.ddf3f2a2dbfc1c4568c4.jpg",
+    "static/media/Car_Website.png": "/static/media/Car_Website.5038c4dce7e305a650bc.png",
+    "static/media/user.png": "/static/media/user.0e641cdb502a4aefa9fa.png",
+    "static/media/MyPortfolio.png": "/static/media/MyPortfolio.9420d09ab38b20519c9d.png",
+    "index.html": "/index.html",
+    "main.9656599d.css.map": "/static/css/main.9656599d.css.map",
+    "main.44f9e357.js.map": "/static/js/main.44f9e357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9656599d.css",
+    "static/js/main.44f9e357.js"
+  ]
+}
