@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Mr-UsmanKhalid/Mr-UsmanKhalid.github.io/static/css/main.9656599d.css",
-    "main.js": "/Mr-UsmanKhalid/Mr-UsmanKhalid.github.io/static/js/main.ee712a48.js",
-    "static/media/Aptech_Appliaction_Screens.png": "/Mr-UsmanKhalid/Mr-UsmanKhalid.github.io/static/media/Aptech_Appliaction_Screens.5351984caf497958396b.png",
-    "static/media/ABOUT.jpg": "/Mr-UsmanKhalid/Mr-UsmanKhalid.github.io/static/media/ABOUT.ddf3f2a2dbfc1c4568c4.jpg",
-    "static/media/Car_Website.png": "/Mr-UsmanKhalid/Mr-UsmanKhalid.github.io/static/media/Car_Website.5038c4dce7e305a650bc.png",
-    "static/media/user.png": "/Mr-UsmanKhalid/Mr-UsmanKhalid.github.io/static/media/user.0e641cdb502a4aefa9fa.png",
-    "static/media/MyPortfolio.png": "/Mr-UsmanKhalid/Mr-UsmanKhalid.github.io/static/media/MyPortfolio.9420d09ab38b20519c9d.png",
-    "index.html": "/Mr-UsmanKhalid/Mr-UsmanKhalid.github.io/index.html",
-    "main.9656599d.css.map": "/Mr-UsmanKhalid/Mr-UsmanKhalid.github.io/static/css/main.9656599d.css.map",
-    "main.ee712a48.js.map": "/Mr-UsmanKhalid/Mr-UsmanKhalid.github.io/static/js/main.ee712a48.js.map"
+    "main.css": "/Mr-UsmanKhalid.github.io/static/css/main.9656599d.css",
+    "main.js": "/Mr-UsmanKhalid.github.io/static/js/main.d4262fb1.js",
+    "static/media/Aptech_Appliaction_Screens.png": "/Mr-UsmanKhalid.github.io/static/media/Aptech_Appliaction_Screens.5351984caf497958396b.png",
+    "static/media/ABOUT.jpg": "/Mr-UsmanKhalid.github.io/static/media/ABOUT.ddf3f2a2dbfc1c4568c4.jpg",
+    "static/media/Car_Website.png": "/Mr-UsmanKhalid.github.io/static/media/Car_Website.5038c4dce7e305a650bc.png",
+    "static/media/user.png": "/Mr-UsmanKhalid.github.io/static/media/user.0e641cdb502a4aefa9fa.png",
+    "static/media/MyPortfolio.png": "/Mr-UsmanKhalid.github.io/static/media/MyPortfolio.9420d09ab38b20519c9d.png",
+    "index.html": "/Mr-UsmanKhalid.github.io/index.html",
+    "main.9656599d.css.map": "/Mr-UsmanKhalid.github.io/static/css/main.9656599d.css.map",
+    "main.d4262fb1.js.map": "/Mr-UsmanKhalid.github.io/static/js/main.d4262fb1.js.map"
   },
   "entrypoints": [
     "static/css/main.9656599d.css",
-    "static/js/main.ee712a48.js"
+    "static/js/main.d4262fb1.js"
   ]
 }
